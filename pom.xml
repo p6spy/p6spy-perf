@@ -12,7 +12,7 @@
 		<java-build>1.6</java-build>
 		
 		<!-- lib versions -->
-		<p6spy.version>2.0.1-SNAPSHOT</p6spy.version>
+		<p6spy.version>2.0.2-SNAPSHOT</p6spy.version>
 		<h2.version>1.3.175</h2.version>
 		<log4j.version>1.2.17</log4j.version>
 		<slf4j.version>1.7.6</slf4j.version>
