@@ -21,7 +21,7 @@ performance tests for [p6spy](https://github.com/p6spy/p6spy) project
 
 **Profiling the tests with [Yourkit](http://www.yourkit.com/download/index.jsp):**
 
-1. (optional step): don't need to run non-p6spy JMeter tests => disable it in:
+1. (optional step) don't need to run non-p6spy JMeter tests => disable it in:
 
          src/test/jmeter/p6spy-perf.jmx
          
